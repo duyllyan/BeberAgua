@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Beber Agua</string>
+    <string name="hint">Intervalo (min)</string>
+</resources>
